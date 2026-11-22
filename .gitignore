@@ -1,0 +1,11 @@
+node_modules/
+web/node_modules/
+web/dist/
+data/
+cache/icons/*
+!cache/icons/.gitkeep
+.env
+*.pem
+*.key
+.DS_Store
+*.log
