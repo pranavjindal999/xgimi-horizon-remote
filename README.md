@@ -4,6 +4,18 @@ A remote you open in a browser, for an [XGIMI Horizon](https://www.xgimi.com) pr
 
 It talks to the projector with [Android Debug Bridge](https://developer.android.com/tools/adb) over Wi-Fi. Nothing in this project is meant to leave your LAN. Do not forward the remote or ADB port to the internet.
 
+<p align="center">
+  <img src="docs/screenshots/desktop.jpg" alt="Horizon Remote on desktop — now playing, volume, brightness, and d-pad" width="720" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/suggested.jpg" alt="Suggested videos sidebar with resolution badges" width="720" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/phone.jpg" alt="Horizon Remote on a phone in dark mode" width="280" />
+</p>
+
 ## Why this exists
 
 The projector already has a remote. A phone is often closer. Stock companion apps are limited, and they do not share one picture of "what is playing" across several screens.
